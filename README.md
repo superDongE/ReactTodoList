@@ -1,5 +1,3 @@
-### TODO LIST - REACT
+# React To-Do-List
 
-## 나만의 TODO - LIST 제작
-
-# REACT 구현
+### React Project
